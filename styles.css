@@ -60,7 +60,7 @@ button{
     border-radius: 30px;
     border: none;
     background-color:#9499EA;
-    fill: #9499EA;
+    fill: #9499EE;
     filter: drop-shadow(0 10px 24px rgba(148, 153, 234, 0.10));
     cursor: pointer;
 }
