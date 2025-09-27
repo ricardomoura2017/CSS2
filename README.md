@@ -11,3 +11,5 @@
 <br>
 <img src="https://github.com/ricardomoura2017/easy-shopping/blob/main/assets/cerlphone.PNG"/>
 <img src="https://github.com/ricardomoura2017/easy-shopping/blob/main/assets/desktop..PNG"/>
+
+link para abrir o projeto <a href="https://ricardomoura2017.github.io/easy-shopping/">Easy Shopping</a>
